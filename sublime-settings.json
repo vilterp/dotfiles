@@ -1,0 +1,20 @@
+{
+	"bold_folder_labels": true,
+	"detect_slow_plugins": false,
+	"font_size": 12.0,
+	"hot_exit": false,
+	"ignored_packages":
+	[
+		"SublimeClang",
+		"Go",
+		"VintageEx",
+		"GoSublime"
+	],
+	"open_files_in_new_window": false,
+	"remember_open_files": false,
+	"save_on_focus_lost": false,
+	"tab_size": 2,
+	"vintage_start_in_command_mode": false,
+	"word_wrap": false
+}
+

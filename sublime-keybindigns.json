@@ -1,0 +1,16 @@
+[
+	{ "keys": ["super+alt+'"], "command": "change_quotes" },
+	// , { "keys": ["command+l"], "command": "show_overlay", "args": {"overlay": "goto", "text": ":"} }
+
+	// bookmarks
+	{ "keys": ["super+alt+b"], "command": "next_bookmark" },
+	{ "keys": ["super+alt+ctrl+b"], "command": "prev_bookmark" },
+	{ "keys": ["super+b"], "command": "toggle_bookmark" },
+	{ "keys": ["super+shift+f2"], "command": "clear_bookmarks" },
+	{ "keys": ["alt+f2"], "command": "select_all_bookmarks" },
+
+	{ "keys": ["super+v"], "command": "paste_and_indent" },
+	{ "keys": ["super+shift+v"], "command": "paste" }
+
+]
+
