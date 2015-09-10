@@ -40,12 +40,24 @@ ZSH_THEME="meetup"
 # Which plugins would you like to load? (plugins can be found in ~/.oh-my-zsh/plugins/*)
 # Custom plugins may be added to ~/.oh-my-zsh/custom/plugins/
 # Example format: plugins=(rails git textmate ruby lighthouse)
-plugins=(git osx brew)
+plugins=(git osx brew zsh-syntax-highlighting)
 
 source $ZSH/oh-my-zsh.sh
 
 # Customize to your needs...
 export PATH="$PATH:/usr/local/share/npm/bin:/Users/pete/code/play-2.0:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin:/usr/texbin:/Applications/Racket v5.1.3//bin:/Users/pete/.cabal/bin:/Users/pete/code/checker-265:/Users/pete/android-sdk-macosx/tools:/Users/pete/android-sdk-macosx/platform-tools:/Users/pete/code/dart-package/dart-sdk/bin:/usr/local/smlnj-110.75//bin"
 
-eval "$(rbenv init -)"
+export PATH="$PATH:/Users/pete/bin"
 
+export PATH="$PATH:/Users/pete/code/elm/bin"
+
+export PATH="$HOME/Library/Haskell/bin:$PATH"
+
+export GOPATH="$HOME/go"
+export PATH=$PATH:$GOPATH/bin
+
+. /Users/pete/z.sh
+
+
+### Added by the Heroku Toolbelt
+export PATH="/usr/local/heroku/bin:$PATH"
