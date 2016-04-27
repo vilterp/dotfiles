@@ -1,0 +1,121 @@
+ack 2.14
+activemq 5.11.1
+autoconf 2.69
+automake 1.15
+awscli 1.10.1
+boost 1.58.0
+boost-python 1.58.0
+boost-python159 1.59.0
+boost159 1.59.0
+boot2docker 1.8.0
+brew-cask 0.56.0
+cabal-install 1.22.6.0
+cairo 1.14.6
+cassandra 3.0.2
+cassandra20 2.0.11
+cgal 4.6.1
+colordiff 1.0.15
+consul 0.5.2
+coreutils 8.24
+cpp-netlib 0.11.2
+czmq 3.0.2_3
+docker 1.8.1
+docker-machine 0.7.0
+elasticsearch14 1.4.5
+elixir 1.2.0
+elm-format 0.2.0-alpha
+eot-utils 1.1
+erlang 18.2.1
+fish 2.2.0
+flow 0.15.0
+fontconfig 2.11.1_2
+fontforge 20150824
+freeimage 3.17.0
+freetype 2.6.3 2.6_1
+freexl 1.0.2
+fswatch 1.9.1
+gdal 1.11.2_3
+gdbm 1.11
+geos 3.4.2
+gettext 0.19.7
+gflags 2.1.2
+ghc 7.10.2 7.10.3b
+giflib 4.2.3
+git 2.5.0
+glib 2.46.2
+glog 0.3.4
+gmp 6.0.0a
+gobject-introspection 1.46.0_1
+gpp 2.24
+gradle 2.11
+graphviz 2.38.0
+harfbuzz 1.1.3
+htop-osx 0.8.2.7 0.8.2.8
+httpie 0.9.2_1
+hub 2.2.1
+icu4c 55.1 56.1 57.1
+imagemagick 6.9.1-10
+jpeg 8d
+jq 1.5
+json-c 0.12
+kafka 0.9.0.0
+leiningen 2.5.2
+libevent 2.0.22
+libffi 3.0.13
+libgeotiff 1.4.1_1
+liblwgeom 2.1.5_1
+libmagic 5.25
+libpng 1.6.18 1.6.20 1.6.21
+libressl 2.3.0
+libsodium 1.0.8
+libspatialite 4.3.0
+libssh2 1.7.0
+libtiff 4.0.4 4.0.6
+libtool 2.4.6
+libxml2 2.9.2
+lynx 2.8.8rel.2_1
+lz4 r131
+lzlib 1.7
+mapnik2 2.2.0_2
+maven 3.3.9
+memcached 1.4.24
+mpfr 3.1.3
+nginx 1.8.0
+node 0.12.7 4.2.1 5.9.0
+oniguruma 5.9.6
+openssl 1.0.2d_1 1.0.2e 1.0.2g
+osquery 1.5.3_2
+pango 1.38.1
+pcre 8.37
+pixman 0.32.8
+pkg-config 0.28 0.29 0.29.1
+postgis 2.1.7_1
+postgresql 9.4.4
+proj 4.9.1 4.9.2
+protobuf 2.6.1 3.0.0-alpha-3.1
+python 2.7.10_2
+rbenv 1.0.0
+readline 6.3.8
+redis 3.0.3
+rethinkdb 2.2.5
+rocksdb 3.13
+ruby-build 20150818 20160228
+rust 1.8.0
+sbt 0.13.9
+scala 2.11.7
+sfcgal 1.0.5_2
+snappy 1.1.3
+sqlite 3.8.11.1
+the_silver_searcher 0.30.0
+thrift 0.9.3
+tmux 2.0
+tree 1.7.0
+typesafe-activator 1.3.7
+unixodbc 2.3.2_1
+wget 1.16.3
+wxmac 3.0.2_1
+xmlstarlet 1.6.1
+xz 5.2.1
+yara 3.4.0
+zeromq 4.1.4
+zookeeper 3.4.6_1 3.4.7
